@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="450px" max-width="450px" width="450px" align="right">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
   My name is <strong>Marx Maciel Xavier</strong>, <br> I was born in the USA but Im currently getting my information system bachelor's degree in <strong>UNICAMP</strong> (Brazil's top 1 university).<br>
